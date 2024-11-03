@@ -1,0 +1,44 @@
+{		
+   "name": "หนังออนไลน์",		
+   "image": "https://img2.pic.in.th/pic/Onlinbe-removebg-preview.png",		
+   "groups": [		
+
+        {		
+        "name": "หนังโรง",	
+        "image": "https://img2.pic.in.th/pic/Remove-bg.ai_1730212982278b971a52a8f1e186c.png",
+        "url": "https://docs.google.com/uc?export=download&id=18TjFnkteUc4vOOcWgFiSph-I1zf2VypJ",
+        "stations": [
+        
+        
+        
+                 ]		
+                },
+                
+                {		
+        "name": "ซีรี่",	
+        "image": "https://img5.pic.in.th/file/secure-sv1/Gojek_TV__8_-removebg-preview.png",
+        "url": "https://bit.ly/40sJoGU",
+        "stations": [
+        
+        
+                 ]		
+                },
+
+{		
+        "name": "การ์ตูน",	
+        "image": "https://img5.pic.in.th/file/secure-sv1/Gojek_TV__9_-removebg-preview.png",
+         "url": "https://docs.google.com/uc?export=download&id=1wDLXrxsRMWSjgRv2D4cP7b9082W5WQlY",
+        "stations": [
+        
+        
+        
+        
+                 ]		
+                },
+                
+                
+
+ 
+    
+   ]		
+  },	
