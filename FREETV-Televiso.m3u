@@ -122,10 +122,10 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
 #EXTINF:-1 tvg-id="Thairath TV.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/32.png" group-title="Digital TV", Thairath TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+KODIPROP:inputstreamaddon=inputstream.adaptive
+KODIPROP:inputstream.adaptive.manifest_type=dash
+KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
 #EXTINF:-1 tvg-id="3HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png" group-title="Digital TV", 3HD
