@@ -2788,6 +2788,8 @@ https://live.zoom072.com/ch6/ch6.m3u8
 หนังคูณคำมี-ฝรั่ง
 ########################################
 
+#EXTINF:-1 group-title="หนังคูณคำมี-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/20250411100536wv6oWAleCJZUk5htrGg413t3GCy.jpg",G20 (2025)
+https://m1free.inwstream.com:1936/movie4/G20_2025/G20_2025_TH_1080p.mp4/chunk.m3u8
 
 #EXTINF:-1 group-title="หนังคูณคำมี-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/2020031121010421-bridges-5e392646e7dee.jpg",เผด็จศึกยึดนิวยอร์ก (2019)
 https://m1free.inwstream.com:1936/movie3/21_Bridges_2019/21_Bridges_2019_TH_1080p.mp4/chunk.m3u8
