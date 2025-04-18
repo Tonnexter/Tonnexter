@@ -1,19 +1,24 @@
 #EXTM3U 
+
 ########################################
 รายการทีวีดิจิตอล
 ########################################
+
 #EXTINF:-1group-title="️รายการทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/NBT2HD_2025.png",NBT HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
+
 #EXTINF:-1group-title="️รายการทีวีดิจิตอล" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png",THAI PBS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
+
 #EXTINF:-1group-title="️รายการทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ALTV.png",ALTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e98456bcbea44b7ad05831387e364ef:3d14fd4f9d3149a79b35a7124fccbd67
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
+
 #EXTINF:-1group-title="️รายการทีวีดิจิตอล" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",CH5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
@@ -116,6 +121,24 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -11752,11 +11775,231 @@ End of End of หนังคูณคำมี-การ์ตูน
 ########################################
 หนังคูณคำมี-ละครไทย
 ########################################
-#EXTINF:-1 group-title="หนังคูณคำมี-ซีรีย์ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/201905152025163.jpg",ดราก้อนบอล ซูเปอร์: โบรลี่ (2018)
+#EXTINF:-1 group-title="หนังคูณคำมี-ละครไทย" tvg-logo="https://img.inwiptv.net/postor/201905152025163.jpg",ดราก้อนบอล ซูเปอร์: โบรลี่ (2018)
 https://m1free.inwstream.com:1936/movie3/Dragon_Ball_Super_Broly_2018/Dragon_Ball_Super_Broly_2018_th_1080p.m4v/chunk.m3u8
 ########################################
 End of End of หนังคูณคำมี-ละครไทย
 ########################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+########################################
+หนังคูณคำมี-DC-ML
+########################################
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-เดดพูล-วูล์ฟเวอรีน-1.jpg", Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน
+https://main.24playerhd.com/newplaylist/2f41c01ce5601b8bd579b62a/2f41c01ce5601b8bd579b62a.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ.jpg", Madame Web (2024) มาดามเว็บ
+https://main.24playerhd.com/newplaylist/0a8ed5b92a7545f045c0853d/0a8ed5b92a7545f045c0853d.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2.jpg", Deadpool 2 (2018) เดดพูล 2
+https://main.24playerhd.com/newplaylist/9af3fa0d3b2aaedc72adbf68/9af3fa0d3b2aaedc72adbf68.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล.jpg", Deadpool (2016) เดดพูล
+https://main.24playerhd.com/newplaylist/78acd4bc47cfeda97b09c244/78acd4bc47cfeda97b09c244.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์.jpg", The Marvels (2023) เดอะ มาร์เวลส์
+https://main.24playerhd.com/newplaylist/6b2577e7eafaf8b9df514272/6b2577e7eafaf8b9df514272.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Loki-Season-2-2021-โลกิ-2.jpg", Loki Season 2 (2021) โลกิ 2
+https://main.24playerhd.com/newplaylist/94557be38896d2af0e689b3a/94557be38896d2af0e689b3a.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Loki-2021-โลกิ.jpg", Loki (2021) โลกิ
+https://main.24playerhd.com/newplaylist/304857c8a7c5ae6a45aceffb/304857c8a7c5ae6a45aceffb.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Spider-Man-Across-the-Spider-Verse-2023-สไปเดอร์-แมน-ผงาดข้ามจักรวาลแมงมุม.jpg", Spider Man Across the Spider Verse (2023) สไปเดอร์ แมน ผงาดข้ามจักรวาลแมงมุม 2
+https://main.24playerhd.com/newplaylist/5e25bef3cb02a46690dc0f5b/5e25bef3cb02a46690dc0f5b.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol-3-2023-รวมพันธุ์นักสู้พิทักษ์จักรวาล-3.jpg", Guardians of the Galaxy Vol 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3
+https://main.24playerhd.com/newplaylist/2d3dd64597a7d2e50c6bbb78/2d3dd64597a7d2e50c6bbb78.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Spider-Man-Into-the-Spider-Verse-2018-สไปเดอร์แมน-ผงาดสู่จักรวาล-แมงมุม.jpg", Spider Man Into the Spider Verse (2018) สไปเดอร์แมน ผงาดสู่จักรวาล แมงมุม
+https://main.24playerhd.com/newplaylist/50a012408d4eb2150a9e1ee7/50a012408d4eb2150a9e1ee7.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Ant-Man-and-the-Wasp-Quantumania-2023-แอนท์‑แมน-และ-เดอะ-วอสพ์-ตะลุยมิติควอนตัม.jpg", Ant-Man and the Wasp Quantumania (2023) แอนท์‑แมน และ เดอะ วอสพ์ ตะลุยมิติควอนตัม
+https://main.24playerhd.com/newplaylist/c9d94073ab63f3645325f0d5/c9d94073ab63f3645325f0d5.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever-2022.jpg", Black Panther Wakanda Forever (2022) แบล็ค แพนเธอร์ วาคานด้าจงเจริญ
+https://main.24playerhd.com/newplaylist/a1104c4d4bacd81eaf0d0f38/a1104c4d4bacd81eaf0d0f38.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Thor-4-Love-and-Thunder-2022-ธอร์-ด้วยรักและอัสนี-4.jpg", Thor 4 Love and Thunder (2022) ธอร์ ด้วยรักและอัสนี 4
+https://main.24playerhd.com/newplaylist/aadab20e3a5dadb0ed0430f5/aadab20e3a5dadb0ed0430f5.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Doctor-Strange-2-in-the-Multiverse-of-Madness-2022-จอมเวทย์มหากาฬ-2-ในมัลติเวิร์สมหาภัย.jpg", Doctor Strange 2 in the Multiverse of Madness (2022) จอมเวทย์มหากาฬ 2 ในมัลติเวิร์สมหาภัย
+https://main.24playerhd.com/newplaylist/a4de5624a8146a192d953c50/a4de5624a8146a192d953c50.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Spider-Man-No-Way-Home-2021.jpg", Spider-Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
+https://main.24playerhd.com/newplaylist/68ce9527e5076bf34b049bbb/68ce9527e5076bf34b049bbb.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Spider-Man-Far-from-Home-2019.jpg", Spider-Man Far from Home (2019) สไปเดอร์ แมน ฟาร์ ฟรอม โฮม
+https://main.24playerhd.com/newplaylist/9cc1918e9355a52fb709d816/9cc1918e9355a52fb709d816.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Eternals-2021-ฮีโร่พลังเทพเจ้า.jpg", Eternals (2021) ฮีโร่พลังเทพเจ้า
+https://main.24playerhd.com/newplaylist/3bc367d8404e9440212643fd/3bc367d8404e9440212643fd.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Shang-Chi-and-the-Legend-of-the-Ten-Rings-2021-ชาง-ชี-กับตำนานลับเท็นริงส์.jpg", Shang-Chi and the Legend of the Ten Rings (2021) ชาง-ชี กับตำนานลับเท็นริงส์
+https://main.24playerhd.com/newplaylist/8e294da559d6860bc852b41d/8e294da559d6860bc852b41d.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Avengers-Endgame-2019.jpg", Avengers Endgame (2019) อเวนเจอร์ส เผด็จศึก
+https://main.24playerhd.com/newplaylist/4df156b6fa9146e73a9cf8fb/4df156b6fa9146e73a9cf8fb.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Avengers-3-Infinity-War-2018-อเวนเจอร์ส-3-มหาสงครามอัญมณีล้างจักรวาล.jpg", Avengers 3 Infinity War (2018) อเวนเจอร์ส 3 มหาสงครามอัญมณีล้างจักรวาล
+https://main.24playerhd.com/newplaylist/876850e4110491a07fa110f1/876850e4110491a07fa110f1.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Ant-Man-2-and-The-Wasp-2018.jpg", Ant-Man 2 and The Wasp (2018) แอนท์ แมน และ เดอะ วอสพ์
+https://main.24playerhd.com/newplaylist/791ae9f77344731ae3a4f39e/791ae9f77344731ae3a4f39e.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Thor-3-Ragnarok-2017-ศึกอวสานเทพเจ้า-3.jpg", Thor 3 Ragnarok (2017) ศึกอวสานเทพเจ้า 3
+https://main.24playerhd.com/newplaylist/933505b2dd16c52614ec953b/933505b2dd16c52614ec953b.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Doctor-Strange-1-2016-ด็อกเตอร์-สเตรนจ์-1.jpg", Doctor Strange 1 (2016) ด็อกเตอร์ สเตรนจ์ 1 จอมเวทย์มหากาฬ
+https://main.24playerhd.com/newplaylist/7628addc75ebdfc466b61fb5/7628addc75ebdfc466b61fb5.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Black-Panther-2018.jpg", Black Panther (2018) แบล็ค แพนเธอร์
+https://main.24playerhd.com/newplaylist/411164d9ec9cfd5ed0ce4b46/411164d9ec9cfd5ed0ce4b46.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Spider-Man-Homecoming-2017.jpg", Spider-Man Homecoming (2017) สไปเดอร์แมน โฮมคัมมิ่ง
+https://main.24playerhd.com/newplaylist/2be961e6178ecdeca0fc1b23/2be961e6178ecdeca0fc1b23.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Captain-America-3-Civil-War-2016-กัปตันอเมริกา-3-ศึกฮีโร่ระห่ำโลก.jpg", Captain America 3 Civil War (2016) กัปตันอเมริกา 3 ศึกฮีโร่ระห่ำโลก
+https://main.24playerhd.com/newplaylist/721d9608310dda1f94b1db6c/721d9608310dda1f94b1db6c.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Ant-Man-2015.jpg", Ant-Man (2015) มนุษย์มดมหากาฬ
+https://main.24playerhd.com/newplaylist/bfb576de5063c1359d76357f/bfb576de5063c1359d76357f.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Avengers-Age-of-Ultron-2-2015-อเวนเจอร์ส-มหาศึกอัลตรอนถล่มโลก-2.jpg", Avengers 2 Age of Ultron (2015) อเวนเจอร์ส 2 มหาศึกอัลตรอนถล่มโลก
+https://main.24playerhd.com/newplaylist/a9b2bc0979c2651edc115b57/a9b2bc0979c2651edc115b57.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Guardians-of-the-Galaxy-2-2017-รวมพันธุ์นักสู้พิทักษ์จักรวาล-2.jpg", Guardians of the Galaxy 2 (2017) รวมพันธุ์นักสู้พิทักษ์จักรวาล 2
+https://main.24playerhd.com/newplaylist/9fa5946a5309fb3ef042f76f/9fa5946a5309fb3ef042f76f.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Guardians-of-the-Galaxy-1-2014-รวมพันธุ์นักสู้พิทักษ์จักรวาล-1.jpg", Guardians of the Galaxy 1 (2014) รวมพันธุ์นักสู้พิทักษ์จักรวาล 1
+https://main.24playerhd.com/newplaylist/be56c3f616835977b4e1f3ba/be56c3f616835977b4e1f3ba.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Captain-America-2-The-Winter-Soldier-2014-กัปตันอเมริกา-เดอะ-วินเทอร์-โซลเจอร์.jpg", Captain America 2 The Winter Soldier (2014) กัปตันอเมริกา เดอะ วินเทอร์ โซลเจอร์
+https://main.24playerhd.com/newplaylist/7db032cd3fd0497842fab67e/7db032cd3fd0497842fab67e.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Iron-Man-3-2013-มหาประลัยคนเกราะเหล็ก-3.jpg", Iron Man 3 (2013) มหาประลัยคนเกราะเหล็ก 3
+https://main.24playerhd.com/newplaylist/1090add40fa9a6963747eb21/1090add40fa9a6963747eb21.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/The-Avengers-1-2012-ดิ-เอเวนเจอร์ส.jpg", The Avengers 1 (2012) ดิ เอเวนเจอร์ส
+https://main.24playerhd.com/newplaylist/4ff8c1d14d3170cbd878b09e/4ff8c1d14d3170cbd878b09e.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Thor-1-2011-เทพเจ้าสายฟ้า-1.jpg", Thor 1 (2011) เทพเจ้าสายฟ้า 1
+https://main.24playerhd.com/newplaylist/69760f85460220106348066d/69760f85460220106348066d.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/The-Incredible-Hulk-2008-มนุษย์ตัวเขียวจอมพลัง.jpg", The Incredible Hulk (2008) มนุษย์ตัวเขียวจอมพลัง
+https://main.24playerhd.com/newplaylist/6dca15627e14d196b956ff56/6dca15627e14d196b956ff56.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Iron-Man-2-2010-มหาประลัยคนเกราะเหล็ก-2.jpg", Iron Man 2 (2010) มหาประลัยคนเกราะเหล็ก 2
+https://main.24playerhd.com/newplaylist/361ecd8c18ff93e535c73e16/361ecd8c18ff93e535c73e16.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Iron-Man-2008-มหาประลัยคนเกราะเหล็ก.jpg", Iron Man (2008) มหาประลัยคนเกราะเหล็ก
+https://main.24playerhd.com/newplaylist/2a4a4f48334b2be5ec8ff058/2a4a4f48334b2be5ec8ff058.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Captain-Marvel-2019.jpg", Captain Marvel (2019) กัปตันมาร์เวล
+https://main.24playerhd.com/newplaylist/18b0542c47d85848d0ddfad1/18b0542c47d85848d0ddfad1.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Captain-America-1-The-First-Avenger-2011.jpg", Captain America 1 The First Avenger (2011) กัปตันอเมริกา อเวนเจอร์ที่ 1
+https://main.24playerhd.com/newplaylist/4149ec8f1b3d3839ce6cfb83/4149ec8f1b3d3839ce6cfb83.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/She-Hulk-Attorney-at-Law-2022.jpg", She-Hulk Attorney at Law (2022) ชี ฮัลค์ ทนายสายลุย
+https://main.24playerhd.com/newplaylist/cd5545d4db80b5fc9e9a956d/cd5545d4db80b5fc9e9a956d.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-10-Dark-Phoenix-2019-เอ็กซ์-เม็น-ดาร์ก-ฟีนิกซ์.jpg", X-Men 10 Dark Phoenix (2019) เอ็กซ์-เม็น ดาร์ก ฟีนิกซ์
+https://main.24playerhd.com/newplaylist/c642e71621e834c0a1dfa41f/c642e71621e834c0a1dfa41f.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-9-Logan-2017-เอ็กซ์-เม็น-โลแกน-เดอะ-วูล์ฟเวอรีน.jpg", X-Men 9 Logan (2017) เอ็กซ์-เม็น โลแกน เดอะ วูล์ฟเวอรีน
+https://main.24playerhd.com/newplaylist/62ddca592ab8e164aebed314/62ddca592ab8e164aebed314.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-8-Apocalypse-2016-เอ็กซ์-เม็น-อะพอคคาลิปส์.jpg", X-Men 8 Apocalypse (2016) เอ็กซ์-เม็น อะพอคคาลิปส์
+https://main.24playerhd.com/newplaylist/f84814e1d47b200984c59674/f84814e1d47b200984c59674.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-7-Days-of-Future-Past-2014-สงครามวันพิฆาตกู้อนาคต.jpg", X-Men 7 Days of Future Past (2014) สงครามวันพิฆาตกู้อนาคต
+https://main.24playerhd.com/newplaylist/d5092e2e238fcbb741c8f784/d5092e2e238fcbb741c8f784.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-6-The-Wolverine-2013-เดอะ-วูล์ฟเวอรีน.jpg", X-Men 6 The Wolverine (2013) เดอะ วูล์ฟเวอรีน
+https://main.24playerhd.com/newplaylist/40179ab25f35e4aefa882c30/40179ab25f35e4aefa882c30.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-5-First-Class-2011-เอ็กซ์-เม็น-รุ่น-1.jpg", X-Men 5 First Class (2011) เอ็กซ์-เม็น รุ่น 1
+https://main.24playerhd.com/newplaylist/fe2fca0ddf9f2246a7af2797/fe2fca0ddf9f2246a7af2797.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-Origins-Wolverine-2009-เอ็กซ์-เม็น-กำเนิดวูลฟ์เวอรีน.jpg", X-Men Origins Wolverine (2009) เอ็กซ์-เม็น กำเนิดวูลฟ์เวอรีน
+https://main.24playerhd.com/newplaylist/bd139fec0c201e2acb28d6d2/bd139fec0c201e2acb28d6d2.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-3-The-Last-Stand-2006-เอ็กซ์-เม็น-รวมพลังประจัญบาน.jpg", X-Men 3 The Last Stand (2006) เอ็กซ์-เม็น รวมพลังประจัญบาน
+https://main.24playerhd.com/newplaylist/96be5a0d5f0521b63ab0cfb5/96be5a0d5f0521b63ab0cfb5.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-2-United-2023-เอ็กซ์-เม็น-ศึกมนุษย์พลังเหนือโลก-2.jpg", X-Men 2 United (2023) เอ็กซ์-เม็น ศึกมนุษย์พลังเหนือโลก 2
+https://main.24playerhd.com/newplaylist/009b37755192291bcddca4c5/009b37755192291bcddca4c5.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-2000-เอ็กซ์-เม็น-ศึกมนุษย์พลังเหนือโลก.jpg", X-Men (2000) เอ็กซ์ เม็น ศึกมนุษย์พลังเหนือโลก
+https://main.24playerhd.com/newplaylist/3967f3c86a3fa0976c0fecb1/3967f3c86a3fa0976c0fecb1.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Shazam-Fury-of-the-Gods-2023-ชาแซม-จุดเดือดเทพเจ้า.jpg", Shazam! Fury of the Gods (2023) ชาแซม! จุดเดือดเทพเจ้า
+https://main.24playerhd.com/newplaylist/0c92780af69376d99ed04b84/0c92780af69376d99ed04b84.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Shazam-2019-ชาแซม-1.jpg", Shazam! (2019) ชาแซม!
+https://main.24playerhd.com/newplaylist/68551d1db94f771793671305/68551d1db94f771793671305.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-อควาแมน-กับอาณาจักรสาบสูญ.jpg", Aquaman and the Lost Kingdom (2023) อควาแมน กับอาณาจักรสาบสูญ
+https://main.24playerhd.com/newplaylist/ce206618ccfc1111da9e993d/ce206618ccfc1111da9e993d.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Merry-Little-Batman-2023.jpg", Merry Little Batman (2023)
+https://main.24playerhd.com/newplaylist/d71677ccc6206d87ea9591de/d71677ccc6206d87ea9591de.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Blue-Beetle-2023-บลู-บีเทิล.jpg", Blue Beetle (2023) บลู บีเทิล
+https://main.24playerhd.com/newplaylist/0d6852e18be7d58bd0169123/0d6852e18be7d58bd0169123.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Zack-Snyders-Justice-League-2021.jpg", Zack Snyder's Justice League (2021)
+https://main.24playerhd.com/newplaylist/b709b14058ce60e66977b1b4/b709b14058ce60e66977b1b4.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Justice-League-2017-จัสติซ-ลีก.jpg", Justice League (2017) จัสติซ ลีก
+https://main.24playerhd.com/newplaylist/65701d2fabd40998e7048fa6/65701d2fabd40998e7048fa6.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Batman-v-Superman-Dawn-of-Justice-2016-แบทแมน-ปะทะ-ซูเปอร์แมน.jpg", Batman v Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน
+https://main.24playerhd.com/newplaylist/7829b52aeb3aebea281d2052/7829b52aeb3aebea281d2052.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Aquaman-2018-อควาแมน-เจ้าสมุทร.jpg", Aquaman (2018) อควาแมน เจ้าสมุทร
+https://main.24playerhd.com/newplaylist/12ab85a34a93c558ff28d806/12ab85a34a93c558ff28d806.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Wonder-Woman-1984-2020-วันเดอร์วูเมน-1984.jpg", Wonder Woman 1984 (2020) วันเดอร์วูเมน 1984
+https://main.24playerhd.com/newplaylist/b4e2d9629f7483432b9d2f79/b4e2d9629f7483432b9d2f79.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Wonder-Woman-2017-วันเดอร์-วูแมน.jpg", Wonder Woman (2017) วันเดอร์ วูแมน
+https://main.24playerhd.com/newplaylist/db4c42c6535d326e2e0d89ae/db4c42c6535d326e2e0d89ae.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Man-of-Steel-2013-บุรุษเหล็กซูเปอร์แมน.jpg", Man of Steel (2013) บุรุษเหล็กซูเปอร์แมน
+https://main.24playerhd.com/newplaylist/79536154af21ab5610ac1c86/79536154af21ab5610ac1c86.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/The-Flash-2023-เดอะ-แฟลช.jpg", The Flash (2023) เดอะ แฟลช
+https://main.24playerhd.com/newplaylist/c942c598f71a11bd7aa37a6a/c942c598f71a11bd7aa37a6a.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Batman-The-Dark-Knight-Rises-2012-แบทแมน-อัศวินรัตติกาลผงาด.jpg", Batman The Dark Knight Rises (2012) แบทแมน อัศวินรัตติกาลผงาด
+https://main.24playerhd.com/newplaylist/7781487025218936b0d5274a/7781487025218936b0d5274a.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Batman-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล.jpg", Batman The Dark Knight (2008) แบทแมน อัศวินรัตติกาล
+https://main.24playerhd.com/newplaylist/93000f671dc2ef72ec66aed1/93000f671dc2ef72ec66aed1.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Batman-Begins-2005-แบทแมน-บีกินส์.jpg", Batman Begins (2005) แบทแมน บีกินส์
+https://main.24playerhd.com/newplaylist/68efd791de319f6ea394b9a9/68efd791de319f6ea394b9a9.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Black-Adam-2022.jpg", Black Adam (2022) แบล็ก อดัม
+https://main.24playerhd.com/newplaylist/a8db5d44183719cb4ad8a7c4/a8db5d44183719cb4ad8a7c4.m3u8
+#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Birds-of-Prey-2020.jpg", Birds of Prey (2020) ทีมนกผู้ล่า กับฮาร์ลีย์ ควินน์ ผู้เริดเชิด
+https://main.24playerhd.com/newplaylist/d858d6c461bb8d1b75aa78196d4c88cb/d858d6c461bb8d1b75aa78196d4c88cb.m3u8
+########################################
+End of End of หนังคูณคำมี-DC-MARVEL
+########################################
+
+
+
+
+
+
 
 
 
@@ -12762,182 +13005,6 @@ End of End of หนังคูณคำมี-NetFlix
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-########################################
-หนังคูณคำมี-DC-ML
-########################################
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-เดดพูล-วูล์ฟเวอรีน-1.jpg", Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน
-https://main.24playerhd.com/newplaylist/2f41c01ce5601b8bd579b62a/2f41c01ce5601b8bd579b62a.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Madame-Web-2024-มาดามเว็บ.jpg", Madame Web (2024) มาดามเว็บ
-https://main.24playerhd.com/newplaylist/0a8ed5b92a7545f045c0853d/0a8ed5b92a7545f045c0853d.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-เดดพูล-2.jpg", Deadpool 2 (2018) เดดพูล 2
-https://main.24playerhd.com/newplaylist/9af3fa0d3b2aaedc72adbf68/9af3fa0d3b2aaedc72adbf68.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Deadpool-2016-เดดพูล.jpg", Deadpool (2016) เดดพูล
-https://main.24playerhd.com/newplaylist/78acd4bc47cfeda97b09c244/78acd4bc47cfeda97b09c244.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์.jpg", The Marvels (2023) เดอะ มาร์เวลส์
-https://main.24playerhd.com/newplaylist/6b2577e7eafaf8b9df514272/6b2577e7eafaf8b9df514272.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Loki-Season-2-2021-โลกิ-2.jpg", Loki Season 2 (2021) โลกิ 2
-https://main.24playerhd.com/newplaylist/94557be38896d2af0e689b3a/94557be38896d2af0e689b3a.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Loki-2021-โลกิ.jpg", Loki (2021) โลกิ
-https://main.24playerhd.com/newplaylist/304857c8a7c5ae6a45aceffb/304857c8a7c5ae6a45aceffb.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Spider-Man-Across-the-Spider-Verse-2023-สไปเดอร์-แมน-ผงาดข้ามจักรวาลแมงมุม.jpg", Spider Man Across the Spider Verse (2023) สไปเดอร์ แมน ผงาดข้ามจักรวาลแมงมุม 2
-https://main.24playerhd.com/newplaylist/5e25bef3cb02a46690dc0f5b/5e25bef3cb02a46690dc0f5b.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol-3-2023-รวมพันธุ์นักสู้พิทักษ์จักรวาล-3.jpg", Guardians of the Galaxy Vol 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3
-https://main.24playerhd.com/newplaylist/2d3dd64597a7d2e50c6bbb78/2d3dd64597a7d2e50c6bbb78.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Spider-Man-Into-the-Spider-Verse-2018-สไปเดอร์แมน-ผงาดสู่จักรวาล-แมงมุม.jpg", Spider Man Into the Spider Verse (2018) สไปเดอร์แมน ผงาดสู่จักรวาล แมงมุม
-https://main.24playerhd.com/newplaylist/50a012408d4eb2150a9e1ee7/50a012408d4eb2150a9e1ee7.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Ant-Man-and-the-Wasp-Quantumania-2023-แอนท์‑แมน-และ-เดอะ-วอสพ์-ตะลุยมิติควอนตัม.jpg", Ant-Man and the Wasp Quantumania (2023) แอนท์‑แมน และ เดอะ วอสพ์ ตะลุยมิติควอนตัม
-https://main.24playerhd.com/newplaylist/c9d94073ab63f3645325f0d5/c9d94073ab63f3645325f0d5.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever-2022.jpg", Black Panther Wakanda Forever (2022) แบล็ค แพนเธอร์ วาคานด้าจงเจริญ
-https://main.24playerhd.com/newplaylist/a1104c4d4bacd81eaf0d0f38/a1104c4d4bacd81eaf0d0f38.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Thor-4-Love-and-Thunder-2022-ธอร์-ด้วยรักและอัสนี-4.jpg", Thor 4 Love and Thunder (2022) ธอร์ ด้วยรักและอัสนี 4
-https://main.24playerhd.com/newplaylist/aadab20e3a5dadb0ed0430f5/aadab20e3a5dadb0ed0430f5.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Doctor-Strange-2-in-the-Multiverse-of-Madness-2022-จอมเวทย์มหากาฬ-2-ในมัลติเวิร์สมหาภัย.jpg", Doctor Strange 2 in the Multiverse of Madness (2022) จอมเวทย์มหากาฬ 2 ในมัลติเวิร์สมหาภัย
-https://main.24playerhd.com/newplaylist/a4de5624a8146a192d953c50/a4de5624a8146a192d953c50.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Spider-Man-No-Way-Home-2021.jpg", Spider-Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม
-https://main.24playerhd.com/newplaylist/68ce9527e5076bf34b049bbb/68ce9527e5076bf34b049bbb.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Spider-Man-Far-from-Home-2019.jpg", Spider-Man Far from Home (2019) สไปเดอร์ แมน ฟาร์ ฟรอม โฮม
-https://main.24playerhd.com/newplaylist/9cc1918e9355a52fb709d816/9cc1918e9355a52fb709d816.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Eternals-2021-ฮีโร่พลังเทพเจ้า.jpg", Eternals (2021) ฮีโร่พลังเทพเจ้า
-https://main.24playerhd.com/newplaylist/3bc367d8404e9440212643fd/3bc367d8404e9440212643fd.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Shang-Chi-and-the-Legend-of-the-Ten-Rings-2021-ชาง-ชี-กับตำนานลับเท็นริงส์.jpg", Shang-Chi and the Legend of the Ten Rings (2021) ชาง-ชี กับตำนานลับเท็นริงส์
-https://main.24playerhd.com/newplaylist/8e294da559d6860bc852b41d/8e294da559d6860bc852b41d.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Avengers-Endgame-2019.jpg", Avengers Endgame (2019) อเวนเจอร์ส เผด็จศึก
-https://main.24playerhd.com/newplaylist/4df156b6fa9146e73a9cf8fb/4df156b6fa9146e73a9cf8fb.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Avengers-3-Infinity-War-2018-อเวนเจอร์ส-3-มหาสงครามอัญมณีล้างจักรวาล.jpg", Avengers 3 Infinity War (2018) อเวนเจอร์ส 3 มหาสงครามอัญมณีล้างจักรวาล
-https://main.24playerhd.com/newplaylist/876850e4110491a07fa110f1/876850e4110491a07fa110f1.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Ant-Man-2-and-The-Wasp-2018.jpg", Ant-Man 2 and The Wasp (2018) แอนท์ แมน และ เดอะ วอสพ์
-https://main.24playerhd.com/newplaylist/791ae9f77344731ae3a4f39e/791ae9f77344731ae3a4f39e.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Thor-3-Ragnarok-2017-ศึกอวสานเทพเจ้า-3.jpg", Thor 3 Ragnarok (2017) ศึกอวสานเทพเจ้า 3
-https://main.24playerhd.com/newplaylist/933505b2dd16c52614ec953b/933505b2dd16c52614ec953b.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Doctor-Strange-1-2016-ด็อกเตอร์-สเตรนจ์-1.jpg", Doctor Strange 1 (2016) ด็อกเตอร์ สเตรนจ์ 1 จอมเวทย์มหากาฬ
-https://main.24playerhd.com/newplaylist/7628addc75ebdfc466b61fb5/7628addc75ebdfc466b61fb5.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Black-Panther-2018.jpg", Black Panther (2018) แบล็ค แพนเธอร์
-https://main.24playerhd.com/newplaylist/411164d9ec9cfd5ed0ce4b46/411164d9ec9cfd5ed0ce4b46.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Spider-Man-Homecoming-2017.jpg", Spider-Man Homecoming (2017) สไปเดอร์แมน โฮมคัมมิ่ง
-https://main.24playerhd.com/newplaylist/2be961e6178ecdeca0fc1b23/2be961e6178ecdeca0fc1b23.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Captain-America-3-Civil-War-2016-กัปตันอเมริกา-3-ศึกฮีโร่ระห่ำโลก.jpg", Captain America 3 Civil War (2016) กัปตันอเมริกา 3 ศึกฮีโร่ระห่ำโลก
-https://main.24playerhd.com/newplaylist/721d9608310dda1f94b1db6c/721d9608310dda1f94b1db6c.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Ant-Man-2015.jpg", Ant-Man (2015) มนุษย์มดมหากาฬ
-https://main.24playerhd.com/newplaylist/bfb576de5063c1359d76357f/bfb576de5063c1359d76357f.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Avengers-Age-of-Ultron-2-2015-อเวนเจอร์ส-มหาศึกอัลตรอนถล่มโลก-2.jpg", Avengers 2 Age of Ultron (2015) อเวนเจอร์ส 2 มหาศึกอัลตรอนถล่มโลก
-https://main.24playerhd.com/newplaylist/a9b2bc0979c2651edc115b57/a9b2bc0979c2651edc115b57.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Guardians-of-the-Galaxy-2-2017-รวมพันธุ์นักสู้พิทักษ์จักรวาล-2.jpg", Guardians of the Galaxy 2 (2017) รวมพันธุ์นักสู้พิทักษ์จักรวาล 2
-https://main.24playerhd.com/newplaylist/9fa5946a5309fb3ef042f76f/9fa5946a5309fb3ef042f76f.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Guardians-of-the-Galaxy-1-2014-รวมพันธุ์นักสู้พิทักษ์จักรวาล-1.jpg", Guardians of the Galaxy 1 (2014) รวมพันธุ์นักสู้พิทักษ์จักรวาล 1
-https://main.24playerhd.com/newplaylist/be56c3f616835977b4e1f3ba/be56c3f616835977b4e1f3ba.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Captain-America-2-The-Winter-Soldier-2014-กัปตันอเมริกา-เดอะ-วินเทอร์-โซลเจอร์.jpg", Captain America 2 The Winter Soldier (2014) กัปตันอเมริกา เดอะ วินเทอร์ โซลเจอร์
-https://main.24playerhd.com/newplaylist/7db032cd3fd0497842fab67e/7db032cd3fd0497842fab67e.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Iron-Man-3-2013-มหาประลัยคนเกราะเหล็ก-3.jpg", Iron Man 3 (2013) มหาประลัยคนเกราะเหล็ก 3
-https://main.24playerhd.com/newplaylist/1090add40fa9a6963747eb21/1090add40fa9a6963747eb21.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/The-Avengers-1-2012-ดิ-เอเวนเจอร์ส.jpg", The Avengers 1 (2012) ดิ เอเวนเจอร์ส
-https://main.24playerhd.com/newplaylist/4ff8c1d14d3170cbd878b09e/4ff8c1d14d3170cbd878b09e.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Thor-1-2011-เทพเจ้าสายฟ้า-1.jpg", Thor 1 (2011) เทพเจ้าสายฟ้า 1
-https://main.24playerhd.com/newplaylist/69760f85460220106348066d/69760f85460220106348066d.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/The-Incredible-Hulk-2008-มนุษย์ตัวเขียวจอมพลัง.jpg", The Incredible Hulk (2008) มนุษย์ตัวเขียวจอมพลัง
-https://main.24playerhd.com/newplaylist/6dca15627e14d196b956ff56/6dca15627e14d196b956ff56.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Iron-Man-2-2010-มหาประลัยคนเกราะเหล็ก-2.jpg", Iron Man 2 (2010) มหาประลัยคนเกราะเหล็ก 2
-https://main.24playerhd.com/newplaylist/361ecd8c18ff93e535c73e16/361ecd8c18ff93e535c73e16.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Iron-Man-2008-มหาประลัยคนเกราะเหล็ก.jpg", Iron Man (2008) มหาประลัยคนเกราะเหล็ก
-https://main.24playerhd.com/newplaylist/2a4a4f48334b2be5ec8ff058/2a4a4f48334b2be5ec8ff058.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Captain-Marvel-2019.jpg", Captain Marvel (2019) กัปตันมาร์เวล
-https://main.24playerhd.com/newplaylist/18b0542c47d85848d0ddfad1/18b0542c47d85848d0ddfad1.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Captain-America-1-The-First-Avenger-2011.jpg", Captain America 1 The First Avenger (2011) กัปตันอเมริกา อเวนเจอร์ที่ 1
-https://main.24playerhd.com/newplaylist/4149ec8f1b3d3839ce6cfb83/4149ec8f1b3d3839ce6cfb83.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/She-Hulk-Attorney-at-Law-2022.jpg", She-Hulk Attorney at Law (2022) ชี ฮัลค์ ทนายสายลุย
-https://main.24playerhd.com/newplaylist/cd5545d4db80b5fc9e9a956d/cd5545d4db80b5fc9e9a956d.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-10-Dark-Phoenix-2019-เอ็กซ์-เม็น-ดาร์ก-ฟีนิกซ์.jpg", X-Men 10 Dark Phoenix (2019) เอ็กซ์-เม็น ดาร์ก ฟีนิกซ์
-https://main.24playerhd.com/newplaylist/c642e71621e834c0a1dfa41f/c642e71621e834c0a1dfa41f.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-9-Logan-2017-เอ็กซ์-เม็น-โลแกน-เดอะ-วูล์ฟเวอรีน.jpg", X-Men 9 Logan (2017) เอ็กซ์-เม็น โลแกน เดอะ วูล์ฟเวอรีน
-https://main.24playerhd.com/newplaylist/62ddca592ab8e164aebed314/62ddca592ab8e164aebed314.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-8-Apocalypse-2016-เอ็กซ์-เม็น-อะพอคคาลิปส์.jpg", X-Men 8 Apocalypse (2016) เอ็กซ์-เม็น อะพอคคาลิปส์
-https://main.24playerhd.com/newplaylist/f84814e1d47b200984c59674/f84814e1d47b200984c59674.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-7-Days-of-Future-Past-2014-สงครามวันพิฆาตกู้อนาคต.jpg", X-Men 7 Days of Future Past (2014) สงครามวันพิฆาตกู้อนาคต
-https://main.24playerhd.com/newplaylist/d5092e2e238fcbb741c8f784/d5092e2e238fcbb741c8f784.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-6-The-Wolverine-2013-เดอะ-วูล์ฟเวอรีน.jpg", X-Men 6 The Wolverine (2013) เดอะ วูล์ฟเวอรีน
-https://main.24playerhd.com/newplaylist/40179ab25f35e4aefa882c30/40179ab25f35e4aefa882c30.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-5-First-Class-2011-เอ็กซ์-เม็น-รุ่น-1.jpg", X-Men 5 First Class (2011) เอ็กซ์-เม็น รุ่น 1
-https://main.24playerhd.com/newplaylist/fe2fca0ddf9f2246a7af2797/fe2fca0ddf9f2246a7af2797.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-Origins-Wolverine-2009-เอ็กซ์-เม็น-กำเนิดวูลฟ์เวอรีน.jpg", X-Men Origins Wolverine (2009) เอ็กซ์-เม็น กำเนิดวูลฟ์เวอรีน
-https://main.24playerhd.com/newplaylist/bd139fec0c201e2acb28d6d2/bd139fec0c201e2acb28d6d2.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-3-The-Last-Stand-2006-เอ็กซ์-เม็น-รวมพลังประจัญบาน.jpg", X-Men 3 The Last Stand (2006) เอ็กซ์-เม็น รวมพลังประจัญบาน
-https://main.24playerhd.com/newplaylist/96be5a0d5f0521b63ab0cfb5/96be5a0d5f0521b63ab0cfb5.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-2-United-2023-เอ็กซ์-เม็น-ศึกมนุษย์พลังเหนือโลก-2.jpg", X-Men 2 United (2023) เอ็กซ์-เม็น ศึกมนุษย์พลังเหนือโลก 2
-https://main.24playerhd.com/newplaylist/009b37755192291bcddca4c5/009b37755192291bcddca4c5.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/X-Men-2000-เอ็กซ์-เม็น-ศึกมนุษย์พลังเหนือโลก.jpg", X-Men (2000) เอ็กซ์ เม็น ศึกมนุษย์พลังเหนือโลก
-https://main.24playerhd.com/newplaylist/3967f3c86a3fa0976c0fecb1/3967f3c86a3fa0976c0fecb1.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Shazam-Fury-of-the-Gods-2023-ชาแซม-จุดเดือดเทพเจ้า.jpg", Shazam! Fury of the Gods (2023) ชาแซม! จุดเดือดเทพเจ้า
-https://main.24playerhd.com/newplaylist/0c92780af69376d99ed04b84/0c92780af69376d99ed04b84.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Shazam-2019-ชาแซม-1.jpg", Shazam! (2019) ชาแซม!
-https://main.24playerhd.com/newplaylist/68551d1db94f771793671305/68551d1db94f771793671305.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-อควาแมน-กับอาณาจักรสาบสูญ.jpg", Aquaman and the Lost Kingdom (2023) อควาแมน กับอาณาจักรสาบสูญ
-https://main.24playerhd.com/newplaylist/ce206618ccfc1111da9e993d/ce206618ccfc1111da9e993d.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Merry-Little-Batman-2023.jpg", Merry Little Batman (2023)
-https://main.24playerhd.com/newplaylist/d71677ccc6206d87ea9591de/d71677ccc6206d87ea9591de.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Blue-Beetle-2023-บลู-บีเทิล.jpg", Blue Beetle (2023) บลู บีเทิล
-https://main.24playerhd.com/newplaylist/0d6852e18be7d58bd0169123/0d6852e18be7d58bd0169123.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Zack-Snyders-Justice-League-2021.jpg", Zack Snyder's Justice League (2021)
-https://main.24playerhd.com/newplaylist/b709b14058ce60e66977b1b4/b709b14058ce60e66977b1b4.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Justice-League-2017-จัสติซ-ลีก.jpg", Justice League (2017) จัสติซ ลีก
-https://main.24playerhd.com/newplaylist/65701d2fabd40998e7048fa6/65701d2fabd40998e7048fa6.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Batman-v-Superman-Dawn-of-Justice-2016-แบทแมน-ปะทะ-ซูเปอร์แมน.jpg", Batman v Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน
-https://main.24playerhd.com/newplaylist/7829b52aeb3aebea281d2052/7829b52aeb3aebea281d2052.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Aquaman-2018-อควาแมน-เจ้าสมุทร.jpg", Aquaman (2018) อควาแมน เจ้าสมุทร
-https://main.24playerhd.com/newplaylist/12ab85a34a93c558ff28d806/12ab85a34a93c558ff28d806.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Wonder-Woman-1984-2020-วันเดอร์วูเมน-1984.jpg", Wonder Woman 1984 (2020) วันเดอร์วูเมน 1984
-https://main.24playerhd.com/newplaylist/b4e2d9629f7483432b9d2f79/b4e2d9629f7483432b9d2f79.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Wonder-Woman-2017-วันเดอร์-วูแมน.jpg", Wonder Woman (2017) วันเดอร์ วูแมน
-https://main.24playerhd.com/newplaylist/db4c42c6535d326e2e0d89ae/db4c42c6535d326e2e0d89ae.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Man-of-Steel-2013-บุรุษเหล็กซูเปอร์แมน.jpg", Man of Steel (2013) บุรุษเหล็กซูเปอร์แมน
-https://main.24playerhd.com/newplaylist/79536154af21ab5610ac1c86/79536154af21ab5610ac1c86.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/The-Flash-2023-เดอะ-แฟลช.jpg", The Flash (2023) เดอะ แฟลช
-https://main.24playerhd.com/newplaylist/c942c598f71a11bd7aa37a6a/c942c598f71a11bd7aa37a6a.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Batman-The-Dark-Knight-Rises-2012-แบทแมน-อัศวินรัตติกาลผงาด.jpg", Batman The Dark Knight Rises (2012) แบทแมน อัศวินรัตติกาลผงาด
-https://main.24playerhd.com/newplaylist/7781487025218936b0d5274a/7781487025218936b0d5274a.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Batman-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล.jpg", Batman The Dark Knight (2008) แบทแมน อัศวินรัตติกาล
-https://main.24playerhd.com/newplaylist/93000f671dc2ef72ec66aed1/93000f671dc2ef72ec66aed1.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Batman-Begins-2005-แบทแมน-บีกินส์.jpg", Batman Begins (2005) แบทแมน บีกินส์
-https://main.24playerhd.com/newplaylist/68efd791de319f6ea394b9a9/68efd791de319f6ea394b9a9.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Black-Adam-2022.jpg", Black Adam (2022) แบล็ก อดัม
-https://main.24playerhd.com/newplaylist/a8db5d44183719cb4ad8a7c4/a8db5d44183719cb4ad8a7c4.m3u8
-#EXTINF:-1 group-title="หนังคูณคำมี-DC-ML" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Birds-of-Prey-2020.jpg", Birds of Prey (2020) ทีมนกผู้ล่า กับฮาร์ลีย์ ควินน์ ผู้เริดเชิด
-https://main.24playerhd.com/newplaylist/d858d6c461bb8d1b75aa78196d4c88cb/d858d6c461bb8d1b75aa78196d4c88cb.m3u8
-########################################
-End of End of หนังคูณคำมี-DC-MARVEL
-########################################
 
 
 
