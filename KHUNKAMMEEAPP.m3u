@@ -166,6 +166,26 @@ End of End of รายการทีวีดิจิตอล
 รายการฟุตบอล
 ########################################
 
+#EXTINF:-1  group-title="รายการฟุตบอล" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL 01 FW
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
+
+#EXTINF:-1  group-title="รายการฟุตบอล" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL 02 FW
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
+
+#EXTINF:-1  group-title="รายการฟุตบอล" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL 03 FW
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
+
+#EXTINF:-1  group-title="รายการฟุตบอล" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL 04 FW
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
+
+#EXTINF:-1  group-title="รายการฟุตบอล" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL 05 FW
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
+
 #EXTINF:-1  group-title="รายการฟุตบอล" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL 01
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/chunks.m3u8
@@ -1507,6 +1527,93 @@ End of End of รายการกีฬา
 รายการบันเทิง
 ########################################
 
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0148.png",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0149.png",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#EXTINF:-1  group-title="รายการบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0151.png",HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0149.png",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0151.png",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",Food Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png",Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",DISCOVER
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/aisDiscover.m3u8
+
+#EXTINF:-1  group-title="รายการบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ci.png",True Crime+Investigation
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/CrimeInvesti.m3u8
+
+#EXTINF:-1  group-title="รายการบันเทิง" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",TRUE Lifetime
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truelifetime.m3u8
+
+#EXTINF:-1  group-title="รายการบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/x-zyte.png",TRUE X-ZYTE
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truexzyte.m3u8
+
+#EXTINF:-1  group-title="รายการบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/axn.png",True AXN
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueAXN.m3u8
+
+#EXTINF:-1  group-title="รายการบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/history.png",TRUE HISTORY
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueH2.m3u8
+
+#EXTINF:-1  group-title="รายการบันเทิง"  tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",TRUE WARNER TV
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truewb.m3u8
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/bbclifestyle.png",BBCLifestyle
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueBBCLIFESTYLE.m3u8
+
+#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",Rock Entertainment
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/rockentertainmentred.m3u8
+
+
 #EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png",Asian Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
@@ -1716,30 +1823,6 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
-
-#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0148.png",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
-
-#EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0149.png",HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
-
-#EXTINF:-1  group-title="รายการบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0151.png",HBO HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 #EXTINF:-1 group-title="รายการบันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Antv_2003.svg/640px-Antv_2003.svg.png",ANTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2474,136 +2557,6 @@ https://jmp2.uk/sam-USBD1200008GL.m3u8
 ########################################
 End of End of รายการเพลง
 ########################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-########################################
-รายการซับไทย
-########################################
-
-#EXTINF:-1 group-title="รายการซับไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-
-#EXTINF:-1 group-title="รายการซับไทย" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
-
-#EXTINF:-1 group-title="รายการซับไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0149.png",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
-
-#EXTINF:-1 group-title="รายการซับไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0151.png",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
-
-#EXTINF:-1 group-title="รายการซับไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO FAMILY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-
-#EXTINF:-1 group-title="รายการซับไทย" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png",Cartoonito
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
-
-#EXTINF:-1 group-title="รายการซับไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",Discovery Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/505/505.mpd
-
-#EXTINF:-1 group-title="รายการซับไทย" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",DISCOVER
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/aisDiscover.m3u8
-
-#EXTINF:-1  group-title="รายการซับไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ci.png",True Crime+Investigation
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/CrimeInvesti.m3u8
-
-#EXTINF:-1  group-title="รายการซับไทย" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",TRUE Lifetime
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truelifetime.m3u8
-
-#EXTINF:-1  group-title="รายการซับไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/x-zyte.png",TRUE X-ZYTE
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truexzyte.m3u8
-
-#EXTINF:-1  group-title="รายการซับไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/axn.png",True AXN
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueAXN.m3u8
-
-#EXTINF:-1  group-title="รายการซับไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/history.png",TRUE HISTORY
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueH2.m3u8
-
-#EXTINF:-1  group-title="รายการซับไทย"  tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",TRUE WARNER TV
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truewb.m3u8
-
-#EXTINF:-1 group-title="รายการซับไทย" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/bbclifestyle.png",BBCLifestyle
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueBBCLIFESTYLE.m3u8
-
-#EXTINF:-1 group-title="รายการซับไทย" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",Rock Entertainment
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/rockentertainmentred.m3u8
-
-########################################
-End of End of รายการซับไทย
-########################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
