@@ -121,6 +121,78 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV1.png",DLTV01
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV2.png",DLTV02
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV3.png",DLTV03
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV4.png",DLTV04
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV5.png",DLTV05
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV6.png",DLTV06
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV7.png",DLTV07
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV8.png",DLTV08
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV9.png",DLTV09
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV10.png",DLTV10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV11.png",DLTV11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV12.png",DLTV12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV13.png",DLTV13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV14.png",DLTV14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV15.png",DLTV15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="http://www.etvthai.tv/images_new/logo.png",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/STOU.png",STOU Channel
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="️รายการทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/YATEEMTV.png",YATEEM TV
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://cubiktv.com/upload/images/tv-muslim-thailand.png",TV Muslim
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/WhiteChannel.png",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://i.imgur.com/KvdFCD5.png",บุญนิยมทีวี
+http://live.boonniyom.tv/live/bntvhd.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png",SBB TV
+http://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist.m3u8
+
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/logo-GBN-small1.png",GBN
+https://live1.gbnus.com/live/dhamma_high/playlist.m3u8
+ 
+#EXTINF:-1  group-title="️รายการทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Thattachivo.png",หลวงพ่อทัตตชีโว
+https://live.zoom072.com/ch6/ch6.m3u8
 ########################################
 End of End of รายการทีวีดิจิตอล
 ########################################
@@ -2577,155 +2649,6 @@ End of End of รายการเพลง
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-########################################
-รายการการศึกษา
-########################################
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV1.png",DLTV01
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV2.png",DLTV02
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV3.png",DLTV03
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV4.png",DLTV04
-https://cdn-live.dltv.ac.th/dltv04.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV5.png",DLTV05
-https://cdn-live.dltv.ac.th/dltv05.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV6.png",DLTV06
-https://cdn-live.dltv.ac.th/dltv06.m3u8
-
-#EXTINF:-1 group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV7.png",DLTV07
-https://cdn-live.dltv.ac.th/dltv07.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV8.png",DLTV08
-https://cdn-live.dltv.ac.th/dltv08.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV9.png",DLTV09
-https://cdn-live.dltv.ac.th/dltv09.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV10.png",DLTV10
-https://cdn-live.dltv.ac.th/dltv10.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV11.png",DLTV11
-https://cdn-live.dltv.ac.th/dltv11.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV12.png",DLTV12
-https://cdn-live.dltv.ac.th/dltv12.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV13.png",DLTV13
-https://cdn-live.dltv.ac.th/dltv13.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV14.png",DLTV14
-https://cdn-live.dltv.ac.th/dltv14.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV15.png",DLTV15
-https://cdn-live.dltv.ac.th/dltv15.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="http://www.etvthai.tv/images_new/logo.png",ETV
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1  group-title="รายการการศึกษา" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/STOU.png",STOU Channel
-https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
-
-########################################
-End of End of รายการการศึกษา
-########################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-########################################
-รายการคุณธรรม
-########################################
-
-#EXTINF:-1 group-title="รายการคุณธรรม" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/YATEEMTV.png",YATEEM TV
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-
-#EXTINF:-1  group-title="รายการคุณธรรม" tvg-logo="https://cubiktv.com/upload/images/tv-muslim-thailand.png",TV Muslim
-https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
-
-#EXTINF:-1  group-title="รายการคุณธรรม" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/WhiteChannel.png",White Channel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
-#EXTINF:-1  group-title="รายการคุณธรรม" tvg-logo="https://i.imgur.com/KvdFCD5.png",บุญนิยมทีวี
-http://live.boonniyom.tv/live/bntvhd.m3u8
-
-#EXTINF:-1  group-title="รายการคุณธรรม" tvg-logo="https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png",SBB TV
-http://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist.m3u8
-
-#EXTINF:-1  group-title="รายการคุณธรรม" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/logo-GBN-small1.png",GBN
-https://live1.gbnus.com/live/dhamma_high/playlist.m3u8
- 
-#EXTINF:-1  group-title="รายการคุณธรรม" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Thattachivo.png",หลวงพ่อทัตตชีโว
-https://live.zoom072.com/ch6/ch6.m3u8
-
-########################################
-End of End of รายการคุณธรรม
-########################################
 
 
 
