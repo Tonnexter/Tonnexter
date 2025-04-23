@@ -1,4 +1,5 @@
 #EXTM3U 
+#EXTM3U url-tvg="https://iptv36.vercel.app/epg.xml,https://xmltv.tvkaista.net/guides/tv.trueid.net.xml,https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
 ########################################
 รายการทีวีดิจิตอล
@@ -1595,6 +1596,243 @@ End of End of รายการกีฬา
 
 
 
+
+
+
+
+
+
+
+
+########################################
+รายการเพลง
+########################################
+
+#EXTINF:-1 group-title="รายการเพลง" group-title="รายการเพลง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/220px-MTV_90s_2022.svg.png",MTV 90's
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+
+#EXTINF:-1 group-title="รายการเพลง" group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png",MTV Live HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+ 
+#EXTINF:-1 group-title="รายการเพลง"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/200px-NOW_Rock_logo.png",NOW ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://media.cptv.org/wp-content/uploads/2018/11/logo-spirit1.png",SPIRIT
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo ’70s
+https://jmp2.uk/sam-USBD300011KQ.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo ’80s
+https://jmp2.uk/sam-USBD300012YC.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo ’90s
+https://jmp2.uk/sam-USBD3000133M.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo 2K
+https://jmp2.uk/sam-USBB4400015F5.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo 2010s
+https://jmp2.uk/sam-USBD120002431.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Retro Rock
+https://jmp2.uk/sam-USBD3000145P.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Latino
+https://jmp2.uk/sam-USBC3600015GF.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Hip-Hop
+https://jmp2.uk/sam-USBC3600002EK.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo R&B
+https://jmp2.uk/sam-USBC3900009K5.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Country
+https://jmp2.uk/sam-USBC3600001RQ.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Pop
+https://jmp2.uk/sam-USBC3600008WY.m3u8
+
+#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Features
+https://jmp2.uk/sam-USBD1200008GL.m3u8
+
+########################################
+End of End of รายการเพลง
+########################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+########################################
+รายการข่าว
+########################################
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NBT_World_2025.svg/298px-NBT_World_2025.svg.png",NBT World
+http://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MetroTV.png",Metro TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/idx.png",IDX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
+https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Jakarta_news.png",Jakarta GlobeNews Channel
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
+https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",CNN HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Bloomberg.png",Bloomberg
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
+https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World Japan
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
+https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/640px-BBC_World_News_2022.svg.png",BBC World
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
+https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/CNA.png",Channel News Asia
+https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TVBSNEWS.png",TVBS News
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png",CCTV 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
+https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/INews.png",INEWS +
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:-1  group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TopNews.png",Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+#EXTINF:-1  group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TVMass.png",มวลชนทีวี
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/dopa.png",Dopa Channel
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+
+#EXTINF:-1  group-title="รายการข่าว" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
+https://server1.streamssl.com/stream/news1_mid.m3u8
+
+#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/suwannabhumi.png",Suwannabhumi Channel
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+########################################
+End of End of รายการข่าว
+########################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ########################################
 รายการบันเทิง
 ########################################
@@ -2172,136 +2410,6 @@ End of End of รายการบันเทิง
 
 
 
-
-
-
-
-
-
-
-########################################
-รายการข่าว
-########################################
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NBT_World_2025.svg/298px-NBT_World_2025.svg.png",NBT World
-http://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/MetroTV.png",Metro TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/idx.png",IDX
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
-https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Jakarta_news.png",Jakarta GlobeNews Channel
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
-https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png",CNN HD 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Bloomberg.png",Bloomberg
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
-https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World Japan
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
-https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/640px-BBC_World_News_2022.svg.png",BBC World
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
-https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/CNA.png",Channel News Asia
-https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TVBSNEWS.png",TVBS News
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png",CCTV 4
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
-https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/INews.png",INEWS +
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-#EXTINF:-1  group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TopNews.png",Top News
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
-
-#EXTINF:-1  group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/TVMass.png",มวลชนทีวี
-https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/dopa.png",Dopa Channel
-http://dopachannel.truegse.com/live/dopatv03.m3u8
-
-#EXTINF:-1  group-title="รายการข่าว" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png",Police TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
-https://server1.streamssl.com/stream/news1_mid.m3u8
-
-#EXTINF:-1 group-title="รายการข่าว" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/suwannabhumi.png",Suwannabhumi Channel
-https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-########################################
-End of End of รายการข่าว
-########################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ########################################
 รายการการ์ตูน
 ########################################
@@ -2534,124 +2642,6 @@ https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueexplorewild.m3u8
 ########################################
 End of End of รายการสารคดี
 ########################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-########################################
-รายการเพลง
-########################################
-
-#EXTINF:-1 group-title="รายการเพลง" group-title="รายการเพลง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/220px-MTV_90s_2022.svg.png",MTV 90's
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
-
-#EXTINF:-1 group-title="รายการเพลง" group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png",MTV Live HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
- 
-#EXTINF:-1 group-title="รายการเพลง"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/200px-NOW_Rock_logo.png",NOW ROCK
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://media.cptv.org/wp-content/uploads/2018/11/logo-spirit1.png",SPIRIT
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo ’70s
-https://jmp2.uk/sam-USBD300011KQ.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo ’80s
-https://jmp2.uk/sam-USBD300012YC.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo ’90s
-https://jmp2.uk/sam-USBD3000133M.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo 2K
-https://jmp2.uk/sam-USBB4400015F5.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo 2010s
-https://jmp2.uk/sam-USBD120002431.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Retro Rock
-https://jmp2.uk/sam-USBD3000145P.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Latino
-https://jmp2.uk/sam-USBC3600015GF.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Hip-Hop
-https://jmp2.uk/sam-USBC3600002EK.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo R&B
-https://jmp2.uk/sam-USBC3900009K5.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Country
-https://jmp2.uk/sam-USBC3600001RQ.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Pop
-https://jmp2.uk/sam-USBC3600008WY.m3u8
-
-#EXTINF:-1 group-title="รายการเพลง" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/Vevo.png", Vevo Features
-https://jmp2.uk/sam-USBD1200008GL.m3u8
-
-########################################
-End of End of รายการเพลง
-########################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
