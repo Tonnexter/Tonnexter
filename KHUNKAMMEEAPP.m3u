@@ -2698,9 +2698,11 @@ End of End of รายการสารคดี
 ########################################
 หนัง-ฝรั่ง
 ########################################
+#EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/2025022817023538I76hGcFY6xB47pjm7pZwkfuAF.jpg",ฝ่านรกกองโจร (2025)
+https://m1free.inwstream.com:1936/movie4/Counterattack_2025/Counterattack_2025_TH_1080p.mp4/chunk.m3u8
+
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/20250507150323gO33EBU7JHd6xBjT62XMt61KoqX.jpg",แรงทะลุกระสุน 3(2025)
 https://m1free.inwstream.com:1936/movie4/Last_Bullet_2025/Last_Bullet_2025_TH_1080p.mp4/chunk.m3u8
-
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/20250502185843hBH50Mkcrc4m8x73CovLmY7vBx1.jpg",Thunderbolts* ธันเดอร์โบลต์ส* (2025)
 https://m1free.inwstream.com:1936/movie4/Thunderbolts_2025/Thunderbolts_2025_thr_v1.mp4/chunk.m3u8
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/20250430152403qWTfHG8KdXwr0bqypYbNZLenh0J.jpg",พลิกแผนลับลวงระทึก (2025)
@@ -15221,6 +15223,8 @@ https://www.watchlakorn.in/egdeny/0c4e2344555b6361e8b22bce41ca942f/aGQ=/master.m
 https://www.watchlakorn.in/egdeny/e3761d0d8708bf1bba8efcd3b1419365/aGQ=/master.m3u8
 #EXTINF:-1 group-title="หนัง-ละครไทย" tvg-logo="https://f.ptcdn.info/948/077/000/rfj1kbbyu65gO2PVQ6x-o.jpg",แผนรักหักคานลุง Ep.04
 https://www.watchlakorn.in/egdeny/dd297b9c4b58d905df60738722f07921/aGQ=/master.m3u8
+#EXTINF:-1 group-title="หนัง-ละครไทย" tvg-logo="https://f.ptcdn.info/948/077/000/rfj1kbbyu65gO2PVQ6x-o.jpg",แผนรักหักคานลุง Ep.05
+https://www.watchlakorn.in/egdeny/facad8c79ac93b43b76b75711528306c/aGQ=/master.m3u8
 #EXTINF:-1 group-title="หนัง-ละครไทย" tvg-logo="https://image.onehd.net/Media/Test/254418114403008.jpg",เป็นต่อ 2024 Ep.01
 https://main.24playerhd.com/m3u8/0ab8f1a6be8cc902ae85577d/0ab8f1a6be8cc902ae85577d438.m3u8
 #EXTINF:-1 group-title="หนัง-ละครไทย" tvg-logo="https://image.onehd.net/Media/Test/254418114403008.jpg",เป็นต่อ 2024 Ep.02
