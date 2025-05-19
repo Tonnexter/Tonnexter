@@ -2698,9 +2698,15 @@ End of End of รายการสารคดี
 ########################################
 หนัง-ฝรั่ง
 ########################################
+#EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/20191029151720inside-man-most-wanted-5d7fda41ac11e.jpg",Inside Man: Most Wanted (2019)
+https://m1free.inwstream.com:1936/movie3/Inside_Man_Most_Wanted_2019/Inside_Man_Most_Wanted_2019_TH_1080p.m4v/chunk.m3u8
+#EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/20200105205817brooklyns-finest-522e1035ae380.jpg",ตำรวจระห่ำพล่านเขย่าเมือง (2009)
+https://m1free.inwstream.com:1936/movie3/Brooklyn_s_Finest_2009/Brooklyn_s_Finest_2009_TH_1080p.m4v/chunk.m3u8
+#EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/20200111220905MV5BNjE3ODg5ZGYtYmM3Mi00MDQwLTg1OTMtYmUzNjY4N2FiZjBhXkEyXkFqcGdeQXVyMjI4MjA3NDY@._V1_SY1000_CR0,0,706,1000_AL_.jpg",Dead Trigger (2017)
+https://m1free.inwstream.com:1936/movie3/Dead_Trigger_2017/Dead_Trigger_2017_th_1080p_HDTV.mp4/chunk.m3u8
+
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/2025022817023538I76hGcFY6xB47pjm7pZwkfuAF.jpg",ฝ่านรกกองโจร (2025)
 https://m1free.inwstream.com:1936/movie4/Counterattack_2025/Counterattack_2025_TH_1080p.mp4/chunk.m3u8
-
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/20250507150323gO33EBU7JHd6xBjT62XMt61KoqX.jpg",แรงทะลุกระสุน 3(2025)
 https://m1free.inwstream.com:1936/movie4/Last_Bullet_2025/Last_Bullet_2025_TH_1080p.mp4/chunk.m3u8
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.inwiptv.net/postor/20250502185843hBH50Mkcrc4m8x73CovLmY7vBx1.jpg",Thunderbolts* ธันเดอร์โบลต์ส* (2025)
