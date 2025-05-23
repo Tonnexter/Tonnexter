@@ -15247,6 +15247,8 @@ https://www.watchlakorn.in/egdeny/1873d2fec5234bc52aa46feab9e33c73/aGQ=/master.m
 https://www.watchlakorn.in/egdeny/a6b74a5c9841b7b65fecbdd33df511c9/aGQ=/master.m3u8
 #EXTINF:-1 group-title="หนัง-ละครไทย" tvg-logo="https://f.ptcdn.info/948/077/000/rfj1kbbyu65gO2PVQ6x-o.jpg",แผนรักหักคานลุง Ep.12
 https://www.watchlakorn.in/egdeny/e8ee5b4a2500b1074f05f46511254aae/aGQ=/master.m3u8
+#EXTINF:-1 group-title="หนัง-ละครไทย" tvg-logo="https://f.ptcdn.info/948/077/000/rfj1kbbyu65gO2PVQ6x-o.jpg",แผนรักหักคานลุง Ep.13
+https://www.watchlakorn.in/egdeny/2a9b170d0d90afd1949c6c7e3c6570c2/aGQ=/master.m3u8
 
 #EXTINF:-1 group-title="หนัง-ละครไทย" tvg-logo="https://image.onehd.net/Media/Test/254418114403008.jpg",เป็นต่อ 2024 Ep.01
 https://main.24playerhd.com/m3u8/0ab8f1a6be8cc902ae85577d/0ab8f1a6be8cc902ae85577d438.m3u8
@@ -15272,29 +15274,4 @@ https://main.24playerhd.com/m3u8/39c5b1eadd44c2dd28791a55/39c5b1eadd44c2dd28791a
 https://main.24playerhd.com/m3u8/ac561829beb36b394dc04605/ac561829beb36b394dc04605438.m3u8
 ########################################
 End of End of หนัง-ละครไทย
-########################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-########################################
-หนัง-LInkLink
-########################################
-#EXTINF:-1 group-title="หนัง-LInkLink" tvg-logo="https://f.ptcdn.info/948/077/000/rfj1kbbyu65gO2PVQ6x-o.jpg",LInkLink
-https://github.com/Tonnexter/Tonnexter/raw/refs/heads/KhunKamMee/KHUNKAMMEEAPP.m3u
-########################################
-End of End of LInkLink
 ########################################
