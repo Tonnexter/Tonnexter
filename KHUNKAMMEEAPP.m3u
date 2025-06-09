@@ -2698,11 +2698,15 @@ End of End of รายการสารคดี
 ########################################
 หนัง-ฝรั่ง
 ########################################
+#EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://www.movie234.com/wp-content/uploads/2025/06/K.O.jpg.webp",เลรินา แค้นกว่านรก
+https://main.24playerhd.com/m3u8/0e55b0952c9d39124b567726/0e55b0952c9d39124b567726438.m3u8
+#EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://www.movie234.com/wp-content/uploads/2025/06/K.O.jpg.webp",K.O. (2025) น็อกเอาท์
+https://main.24playerhd.com/m3u8/550763acbd3c0aa0b4e6340c/550763acbd3c0aa0b4e6340c438.m3u8
+
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://www.movie234.com/wp-content/uploads/2025/04/Sinners.jpg.webp",Sinners (2025) ซินเนอร์ส
 https://main.24playerhd.com/m3u8/5707f4370958c12390c85b43/5707f4370958c12390c85b43438.m3u8
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://www.123-hdd.com/wp-content/uploads/2023/06/Kandahar-2023-300x450.jpg",Kandahar (2023)
 https://main.24playerhd.com/m3u8/26f5d4ba3849efdbfd7ccf8b/26f5d4ba3849efdbfd7ccf8b438.m3u8
-
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2024/11/1992-2024-187x269.jpg",1992 (2024) คืนระห่ำโหด คนระห่ำแตก
 https://main.24playerhd.com/m3u8/524f72c8138cabeb96f23deb/524f72c8138cabeb96f23deb438.m3u8
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/05/Lilo-Stitch-2025-%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%A5%E0%B9%88-%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%8A%E0%B9%8C-187x269.png",Lilo & Stitch (2025) ลิโล่ & สติทช์
@@ -14237,6 +14241,21 @@ End of End of หนัง-สารคดี
 ########################################
 หนัง-NetFlix
 ########################################
+#EXTINF:-1 group-title="หนัง-NetFlix" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mad-Unicorn-2025-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-187x269.png",Mad Unicorn (2025) สงคราม ส่งด่วน EP.1
+https://main.24playerhd.com/m3u8/9e524850ee70540fa417df65/9e524850ee70540fa417df65438.m3u8
+#EXTINF:-1 group-title="หนัง-NetFlix" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mad-Unicorn-2025-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-187x269.png",Mad Unicorn (2025) สงคราม ส่งด่วน EP.2
+https://main.24playerhd.com/m3u8/0c809d28787de0ba8da9d8bd/0c809d28787de0ba8da9d8bd438.m3u8
+#EXTINF:-1 group-title="หนัง-NetFlix" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mad-Unicorn-2025-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-187x269.png",Mad Unicorn (2025) สงคราม ส่งด่วน EP.3
+https://main.24playerhd.com/m3u8/e4855a954171109b9c111318/e4855a954171109b9c111318438.m3u8
+#EXTINF:-1 group-title="หนัง-NetFlix" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mad-Unicorn-2025-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-187x269.png",Mad Unicorn (2025) สงคราม ส่งด่วน EP.4
+https://main.24playerhd.com/m3u8/9f753e301f0eff317adcecba/9f753e301f0eff317adcecba438.m3u8
+#EXTINF:-1 group-title="หนัง-NetFlix" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mad-Unicorn-2025-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-187x269.png",Mad Unicorn (2025) สงคราม ส่งด่วน EP.5
+https://main.24playerhd.com/m3u8/c1cb68117cc1a76e5db2ee3e/c1cb68117cc1a76e5db2ee3e438.m3u8
+#EXTINF:-1 group-title="หนัง-NetFlix" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mad-Unicorn-2025-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-187x269.png",Mad Unicorn (2025) สงคราม ส่งด่วน EP.6
+https://main.24playerhd.com/m3u8/6e338fa460c709fe1f0f740e/6e338fa460c709fe1f0f740e438.m3u8
+#EXTINF:-1 group-title="หนัง-NetFlix" tvg-logo="https://www.24-hdd.com/wp-content/uploads/2025/06/Mad-Unicorn-2025-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-187x269.png",Mad Unicorn (2025) สงคราม ส่งด่วน EP.7
+https://main.24playerhd.com/m3u8/a3572ce26181c84297ad6e62/a3572ce26181c84297ad6e62438.m3u8
+
 #EXTINF:-1 group-title="หนัง-NetFlix" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/09/The-Princess-Switch-เดอะ-พริ้นเซส-สวิตช์-สลับตัวไม่สลับหัวใจ-2018.jpg",The Princess Switch เดอะ พริ้นเซส สวิตช์ สลับตัวไม่สลับหัวใจ (2018)
 https://main.24playerhd.com/newplaylist/7ba7e5352f9901e20d1899b6/7ba7e5352f9901e20d1899b6.m3u8
 #EXTINF:-1 group-title="หนัง-NetFlix" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/09/Sector-36-เซกเตอร์-36-2024.jpg",Sector 36 เซกเตอร์ 36 (2024)
@@ -15273,6 +15292,10 @@ https://www.watchlakorn.in/egdeny/5ffffaa4e94e32b0d8a9a37150ea9b2e/aGQ=/master.m
 https://www.watchlakorn.in/egdeny/968abb1710c147e2366298c9c95cfb6f/aGQ=/master.m3u8
 #EXTINF:-1 group-title="หนัง-ละครไทย" tvg-logo="https://f.ptcdn.info/948/077/000/rfj1kbbyu65gO2PVQ6x-o.jpg",แผนรักหักคานลุง Ep.21
 https://www.watchlakorn.in/egdeny/480fe8ca6fbd9b969a09047fed254ec9/aGQ=/master.m3u8
+#EXTINF:-1 group-title="หนัง-ละครไทย" tvg-logo="https://f.ptcdn.info/948/077/000/rfj1kbbyu65gO2PVQ6x-o.jpg",แผนรักหักคานลุง Ep.22
+https://www.watchlakorn.net/egdeny/308574760ceba2e09f1b39e16eba46d2/aGQ=/master.m3u8
+#EXTINF:-1 group-title="หนัง-ละครไทย" tvg-logo="https://f.ptcdn.info/948/077/000/rfj1kbbyu65gO2PVQ6x-o.jpg",แผนรักหักคานลุง Ep.23
+https://www.watchlakorn.net/egdeny/7f372baa548d1c511e15fbfcae7ec0dd/aGQ=/master.m3u8
 
 #EXTINF:-1 group-title="หนัง-ละครไทย" tvg-logo="https://image.onehd.net/Media/Test/254418114403008.jpg",เป็นต่อ 2024 Ep.01
 https://main.24playerhd.com/m3u8/0ab8f1a6be8cc902ae85577d/0ab8f1a6be8cc902ae85577d438.m3u8
