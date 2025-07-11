@@ -4,9 +4,11 @@
 หนัง-ฝรั่ง
 ########################################
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Tonnexter/Tonnexter/refs/heads/KhunKamMee/Picture/KHUNKAMMeeMovie/1.png"
+#EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.fw4free.com/postor/20190623212557broken-arrow-52151a9f065aa.jpg",คู่มหากาฬ หั่นนรก (1996)
+https://m1free.inwstream.com:1936/movie3/Broken_Arrow_1996/Broken_Arrow_1996_TH_1080p.m4v/chunk.m3u8
+
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.fw4free.com/postor/202507030820041CfBzb8xDIkSlxlwyo005lXpoAX.jpg",Heads of State ผู้นำสายบู๊กู้วิกฤต (2025)
 https://m1free.inwstream.com:1936/movie4/Heads_of_State_2025/Heads_of_State_2025_TH_1080p.mp4/chunk.m3u8
-
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://img.fw4free.com/postor/20250628081230vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg",F1 The Movie F1 เดอะ มูฟวี่ (2025)
 https://m1free.inwstream.com:1936/movie4/F1_The_Movie_2025/F1_The_Movie_2025_thr_v1.mp4/chunk.m3u8
 #EXTINF:-1 group-title="หนัง-ฝรั่ง" tvg-logo="https://22-hdd.com/wp-content/uploads/2025/06/Kraken-2025.webp",Kraken (2025) คราเคน เลื้อยสยอง 20,000 โยชน์
@@ -11575,6 +11577,8 @@ End of End of หนัง-สารคดี
 หนัง-NetFlix
 ########################################
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Tonnexter/Tonnexter/refs/heads/KhunKamMee/Picture/KHUNKAMMeeMovie/7.png"
+#EXTINF:-1 group-title="หนัง-NetFlix" tvg-logo="https://img.fw4free.com/postor/20250709144241pc2l6kgGJaCa5LKoE9VkL7lqy5n.jpg",ปากกัด ตีนถีบ Ziam (2025) NETFLIX
+https://m1free.inwstream.com:1936/movie4/Ziam_2025/Ziam_2025_TH_1080p.mp4/chunk.m3u8
 
 #EXTINF:-1 group-title="หนัง-NetFlix" tvg-logo="https://img.fw4free.com/postor/202507021457492Kflmz9Qt5UQ97JtU8mn6wTrr0z.jpg",The Old Guard 2 ดิ โอลด์ การ์ด 2 (2025)
 https://m1free.inwstream.com:1936/movie4/The_Old_Guard_2_2025/The_Old_Guard_2_2025_TH_1080p.mp4/chunk.m3u8
